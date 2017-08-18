@@ -1,3 +1,3 @@
-# Banco de Dados 2
+# Gabriel Carneiro - Banco de Dados 2
 
-Destinado a disciplina de Banco de Dados 2
+Repositório destinado à disciplina de Banco de Dados 2.
